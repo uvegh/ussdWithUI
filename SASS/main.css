@@ -109,4 +109,9 @@ html {
 #other {
   display: none;
 }
+
+.inputTag {
+  width: 80%;
+  margin-left: 0px;
+}
 /*# sourceMappingURL=main.css.map */
